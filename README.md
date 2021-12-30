@@ -16,4 +16,6 @@ I analyzed the dataset with several regression and classification models but cla
 These are the models I applied:
 Multinomial Regression | LDA | KNN | Random Forest | Boosted Tree | SVM Linear | SVM Poly
 
+Which I screipted by CARET package in R
+
 [1] Palechor, F. M., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, 104344
