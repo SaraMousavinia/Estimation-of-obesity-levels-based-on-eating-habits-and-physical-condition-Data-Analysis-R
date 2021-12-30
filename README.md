@@ -5,7 +5,7 @@ Obesity is a chronic disease that is common and serious and linked to an increas
 
 2	Source of the data
 
-The dataset of “Estimation of obesity levels based on eating habits and physical condition Data Set” include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia. It contains 17 attributes, 2111 records, and a categorical class variable.<https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition>
+The dataset of “Estimation of obesity levels based on eating habits and physical condition Data Set” include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia. It contains 17 attributes, 2111 records, and a categorical class variable.<https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition>[1]
 
 3 Details of the dataset
 
@@ -15,3 +15,5 @@ I analyzed the dataset with several regression and classification models but cla
 
 These are the models I applied:
 Multinomial Regression | LDA | KNN | Random Forest | Boosted Tree | SVM Linear | SVM Poly
+
+[1] Palechor, F. M., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, 104344
